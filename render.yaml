@@ -4,6 +4,7 @@ databases:
     databaseName: health_report
     user: mysite
 
+
 services:
   - type: web
     plan: free
