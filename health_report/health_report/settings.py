@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-tw8awfgw*@#)aqy)(*tpo1(pu+6vt$p-*3xv0ajc_%(7$9%!cv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['health-report.onrender.com', '127.0.0.1']
 
 
 # Application definition
