@@ -1,0 +1,47 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+/static/
+media/
+
+# virtualenv
+venv/
+env/
+.venv/
+.env/
+
+# IDEs and text editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python environment variable files
+.env
+
+# Coverage reports
+.coverage
+*.cover
+
+# pytest
+.cache
+
+# mypy
+.mypy_cache/
+
+# Django migrations
+*/migrations/*
+
+# Django secret key file
+django_secret_key.txt
