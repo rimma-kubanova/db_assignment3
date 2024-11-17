@@ -1,7 +1,7 @@
 databases:
   - name: healthreport
     plan: free
-    databaseName: health_report
+    databaseName: healthreport
     user: mysite
 
 
